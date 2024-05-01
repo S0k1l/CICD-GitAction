@@ -1,0 +1,3 @@
+#!binbash
+
+echo Martyniuk Yurii
